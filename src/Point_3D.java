@@ -219,6 +219,7 @@ public class Point_3D
             Point_3D temp = new Point_3D(7.5, 7.5, 7.5);
             
             Point_3D headPoint = temp.buildTreeRecursive(temp.getXCoordinate(), temp.getYCoordinate(), temp.getZCoordinate(), 256, 30);
+        //this is a comment
         }
     }
 }
